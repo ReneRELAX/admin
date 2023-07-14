@@ -1,0 +1,21 @@
+div{
+    border: solid red;
+    border-radius: 10px ;
+    width: 250px;
+}
+h1{
+    color: blue;
+}
+
+p{
+    color: rgb(16, 5, 26);
+}
+h3{
+    color: rgb(18, 47, 175);
+}
+h4{
+    color: rgb(18, 175, 89);
+}
+ol{
+    color: blue;
+}
